@@ -1,0 +1,27 @@
+{
+  "name": "untility",
+  "version": "1.0.0",
+  "description": "Unneccesary utilities.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jxpsert/untility.git"
+  },
+  "keywords": [
+    "utility",
+    "untility",
+    "unneccesary",
+    "untilities",
+    "jasperp",
+    "jxpsert"
+  ],
+  "author": "jxspert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jxpsert/untility/issues"
+  },
+  "homepage": "https://github.com/jxpsert/untility#readme"
+}
